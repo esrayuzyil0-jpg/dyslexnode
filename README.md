@@ -1,15 +1,21 @@
-# React + TypeScript + Vite
+# 🌟 DyslexiaBridge (Disleksi Köprüsü)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Disleksi tanılı çocukların eğitim sürecinde öğretmen ve veli arasındaki iletişim kopukluğunu gideren AI destekli platform.**
 
-Currently, two official plugins are available:
+## 🎯 Projenin Amacı
+Disleksili çocukların okulda öğrendiklerini evde doğru pratiklerle pekiştirmesi kritiktir. **DyslexiaBridge**, öğretmenlerin girdiği günlük ders notlarını analiz ederek velilere evde uygulayabilecekleri kişiselleştirilmiş ve eğlenceli etkinlik önerileri sunar.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 AI Entegrasyonu (Gemini API)
+Bu uygulama, yapılandırılmamış öğretmen notlarını anlamlandırmak için **Google Gemini AI** kullanır. AI, notlardaki zorlukları tespit eder ve çocuğun özel ihtiyaçlarına göre disleksi dostu pratikler üretir.
 
-## React Compiler
+## ✨ Öne Çıkan Özellikler
+* **AI Destekli Analiz:** Öğretmen notlarından otomatik gelişim önerileri üretme.
+* **Disleksi Dostu Arayüz:** Tek tuşla aktifleşen "OpenDyslexic" fontu ve göz yormayan özel renk paleti.
+* **Veli & Öğretmen Panelleri:** İki tarafın da süreci kolayca takip edebileceği kullanıcı dostu ekranlar.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🔗 Önemli Linkler
+* **Canlı Uygulama:** [https://dyslexiabridge.lovable.app](https://dyslexiabridge.lovable.app)
+* **Demo Videosu:** [Buraya Loom Linkini Yapıştır]
 
 ## Expanding the ESLint configuration
 
