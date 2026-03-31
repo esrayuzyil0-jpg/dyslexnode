@@ -1,2 +1,2 @@
-# dyslexnode
-Disleksi olan çocuklar için öğretmen ve ebeveyn arasında iletişimi kolaylaştıran yapay zeka destekli eğitim köprüsü.
+# DyslexiBridge (Yapay Zeka Destekli İletişim Portalı)
+DyslexiBridge, disleksi tanılı çocukların eğitim sürecindeki en kritik halkayı güçlendirmek için tasarlanmıştır: Ebeveyn ve Eğitmen arasındaki bağ. Geleneksel uygulamaların aksine, DyslexiBridge odağını doğrudan çocuğa değil, onun gelişiminden sorumlu olan yetişkin ekosistemine çevirir. Yapay zeka desteğiyle akademik dili günlük pratiğe dönüştürerek, eğitimin evde de doğru ve verimli bir şekilde devam etmesini sağlar.
